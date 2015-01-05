@@ -108,13 +108,14 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:022953_0000_0FBAC393ED3BA2B8"/>
-            <pb facs="tcp:022953_0001_0FBAC397CAB4EFB0" rendition="simple:additions"/>
+            <pb facs="unknown:022953_0000_0FBAC393ED3BA2B8"/>
+            <pb facs="unknown:022953_0001_0FBAC397CAB4EFB0"
+                rendition="simple:additions"/>
             <p>AMENDMENTS PROPOSED TO BE ADDED TO THE FEDERAL CONSTITUTION, BY THE CONGRESS OF THE UNITED STATES OF AMERICA, Begun and held at the CITY of NEW-YORK, on WEDNESDAY, the fourth Day of MARCH, in the YEAR M, DCC, LXXXIX.</p>
             <p>PRINTED at <hi>BOSTON,</hi> MASSACHUSETTS, BY THOMAS ADAMS, PRINTER to the HONOURABLE the GENERAL COURT M, DCC, XC.</p>
          </div>
          <div type="letter">
-            <pb facs="tcp:022953_0002_0FBAC399902043F0"/>
+            <pb facs="unknown:022953_0002_0FBAC399902043F0"/>
             <opener>
                <dateline>UNITED STATES,
 <date>OCTOBER 2d, 1789.</date>
@@ -149,12 +150,12 @@
       </front>
       <body>
          <div type="amendments">
-            <pb facs="tcp:022953_0003_0FBAC39B6F551890"/>
+            <pb facs="unknown:022953_0003_0FBAC39B6F551890"/>
             <head>Congress of the United States, Begun and held at the city of NEW-YORK, on Wednesday the fourth of MARCH, one thousand seven hundred and eighty-nine.</head>
             <p>The Conventions of a number of the States having at the time of their adopting the Constitution, expressed a desire, in order to prevent misconstruction or abuse of its powers, that further declaratory and restrictive clauses should be added: And as extending the ground of public confidence in the government, will best insure the beneficent ends of its institution:</p>
             <p>RESOLVED, by the Senate and House of Representatives of the United States of AMERICA, in Congress assembled, two thirds of both Houses concurring, That the fol<g ref="char:EOLhyphen"/>lowing Articles be proposed to the Legisla<g ref="char:EOLhyphen"/>tures of the several States, as Amendments to the Constitution of the United States, all or any of which Articles, when ratified by three fourths of the said Legislatures, to be valid to all intents and purposes, as part of the said Constitution, viz.</p>
             <div type="articles">
-               <pb n="4" facs="tcp:022953_0004_0FBAC39CEE9F8FE8"/>
+               <pb n="4" facs="unknown:022953_0004_0FBAC39CEE9F8FE8"/>
                <head>ARTICLES in Addition to, and Amend<g ref="char:EOLhyphen"/>ment of, the CONSTITUTION of the UNITED STATES of AMERICA, proposed by Congress, and ratified by the Legisla<g ref="char:EOLhyphen"/>tures of the several States, pursuant to the fifth Article of the original Constitution.</head>
                <div n="1" type="article">
                   <head>Article the First.</head>
@@ -165,7 +166,7 @@
                   <p>NO law varying the compensation for the services of the Senators and Representatives, shall take effect, until an election of Repre<g ref="char:EOLhyphen"/>sentatives shall have intervened.</p>
                </div>
                <div n="3" type="article">
-                  <pb n="5" facs="tcp:022953_0005_0FBAC3A1A502BF28"/>
+                  <pb n="5" facs="unknown:022953_0005_0FBAC3A1A502BF28"/>
                   <head>Article the Third.</head>
                   <p>CONGRESS shall make no law respecting an establishment of religion, or prohibiting the free exercise thereof, or abridging the free<g ref="char:EOLhyphen"/>dom of speech, or of the press; or the right of the people peaceably to assemble, and to petition the government for a redress of grievances.</p>
                </div>
@@ -180,7 +181,7 @@
                <div n="6" type="article">
                   <head>Article the Sixth.</head>
                   <p>THE right of the people to be secure in their persons, houses, papers, and effects, against unreasonable searches and seizures, shall not be violated; and no warrants shall issue, but upon probable cause, supported by
-<pb n="6" facs="tcp:022953_0006_0FBAC3A2F8751830"/>
+<pb n="6" facs="unknown:022953_0006_0FBAC3A2F8751830"/>
 oath or affirmation, and particularly describ<g ref="char:EOLhyphen"/>ing the place to be searched, and the persons or things to be seized.</p>
                </div>
                <div n="7" type="article">
@@ -190,7 +191,7 @@ oath or affirmation, and particularly describ<g ref="char:EOLhyphen"/>ing the pl
                <div n="8" type="article">
                   <head>Article the Eighth.</head>
                   <p>IN all criminal prosecutions, the accused shall enjoy the right to a speedy and public trial, by an impartial jury of the State and District wherein the crime shall have been committed, which District shall have been previously ascertained by law, and to be in<g ref="char:EOLhyphen"/>formed of the nature and cause of the accu<g ref="char:EOLhyphen"/>sation;
-<pb n="7" facs="tcp:022953_0007_0FBAC3A4DB292BB8"/>
+<pb n="7" facs="unknown:022953_0007_0FBAC3A4DB292BB8"/>
 to be confronted with the witnesses against him; to have compulsory process for obtaining witnesses in his favor, and to have the assistance of counsel for his defence.</p>
                </div>
                <div n="9" type="article">
@@ -206,7 +207,7 @@ to be confronted with the witnesses against him; to have compulsory process for 
                   <p>THE enumeration in the Constitution, of certain rights, shall not be construed to deny or disparage others retained by the people.</p>
                </div>
                <div n="12" type="article">
-                  <pb n="8" facs="tcp:022953_0008_0FBAC3A5EE93D7E8"/>
+                  <pb n="8" facs="unknown:022953_0008_0FBAC3A5EE93D7E8"/>
                   <head>Article the Twelfth.</head>
                   <p>THE powers not delegated to the United States, by the Constitution, nor prohibited by it to the States, are reserved to the States respectively, or to the people.</p>
                   <closer>
